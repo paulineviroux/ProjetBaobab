@@ -9,33 +9,55 @@ Projet: Sur un Baobab */
     1. **Mathilde**, 29 ans, Célibataire, Bruxelles (BE)
 
     	Educatrice dans un centre spécialisé pour enfant.
-    	A la recherche d'un projet humanitaire qui 		soutient une cause.
+    	Mathilde s'intéresse aux causes humanitaires. 		Elle connait d'autres collectifs du même genre.
+    	Elle est donc à la recherche d'un projet qui 		soutient une cause.
 
-    	Mathilde veut avant tout voir en quoi consiste le 		projet proposé par le collectif.
+    	Mathilde veut avant tout voir en quoi consiste le 		projet proposé par le collectif. Elle veut aussi 		pouvoir visionner les cours métrage et peut être 		faire un don.
 
     	(Elle ne connait pas "Sur un Baobab") 
 
-    	Equipement : Mac, OSX, Firefox 10, Ecran 13 pouces
+    	Equipement : Windows 10, Firefox 10, Ecran 15 		pouces
 
     	Expertise Internet : 2/5
-    	
-    2. **Henri**, 42 ans, Marié, 2 enfants, Lyon (FR)
-    	
-    	Organisateur d'un festival de films et court-		métrages. 
-    	
-    	 
 
 
 2. Les personas secondaires :
 
-3. Participants aux activités, parents, amis, famille, ... Malgache? ne sait pas lire? cyber café, connexion lente, écran de mauvaise qualitée.
+	1. **Henri**, 42 ans, Marié, 2 enfants, Lyon (FR)
+    	
+    	Organisateur d'un festival de films et court-		métrages.
+    	
+    	Henri souhaite avoir de sinformations sur le 		collectif mais aussi sur leur façon de travailler 		pour réaliser leurs vidéos. Il souhaite bien 		entendu pouvoir regarder les courts métrages.
+    	
+    	Equipement : Mac, OSX, Firefox 10, Ecran 13 		pouces
 
-4. Idée : s'interesse aux causes humanitaires, petits collectifs. Connait d'autres collectif du meme genre. Trouver les infos sur le collectif, regarder les videos et p-e faire un don. 
-5. Idée : Organisateur festival : A propos de l'asbl, quel est leur objectif et comments il travaillent ? + voir les videos.
-6. 21 ans, a entendu parler du projet dans un de ses cours, a été séduite par l'idée.
-7. Parent d'un enfant qui a participé au projet. Elle voudrai voir ce que son fils a fait et recuperer des photos. Secondaire
-8. Quelqu'un qui cherche un partenariat. Tertiaire
-9. Don de matériel. Robert de la paroisse (partenariat)
-10. etudiant en socio 
-11. infographiste 3D specialiste en stop motion : tombe sur une vidéo et s'interesse a la facon dont ca a été fait!  
+    	Expertise Internet : 4/5
+    	
+    2. **Miranna**, 40 ans, Mariée, 3 enfants, 		Madagascar
+	
+		Mère de Tanjona, 6 ans, qui a participé à un des 		courts métrages réalisé avec le collectif. 
+		
+		Elle voudrait voir ce que son fils à réalisé et 		pouvoir récupérer les photos.
+		
+		
+		Elle ne sait pas bien lire. Elle se connecte sur 		le site dans un cybercafé. La connexion est très		lente à certaines heures de la journée. De plus, 		l'écran ne propose pas un très bon contraste des 		couleurs.
+		
+		Equipement : Windows 7, Internet Explorer, 		Ecran 17 pouces.
+
+    	Expertise Internet : 1/5
+    	
+    	
+3. Les personas tertiaires : 
+
+	1. **Claudine**, 52 ans, Célibataire, 1 enfant, 		Liège(BE)
+	
+		Claudine est membre fondatrice d'une ong qui 		travaille sur les questions liées aux genres. 		L'ong est tombé par hasard sur les projets de 		"sur un baobab" et 	trouve leur approche très 		interessante. 
+		Claudine pense que ce serait une bonne idée de 		faire un partenariat avec le collectif pour 		pouvoir associer son questionnement sur les 		genres avec l'approche du court métrage réalisé 		par des enfants.
+		Elle souhaite donc trouver des infos, regarder 		les courts métrages, et surtout pouvoir les 		contacter.
+
+		Equipement : Mac, OSX, Chrome, 	Ecran 15 pouces.
+
+    	Expertise Internet : 3/5
+
+  
 
