@@ -2,8 +2,8 @@
 Projet: Sur un Baobab */
 
 
-###Définition : Les personas
-
+###Définition
+####Les personas
 1. Le persona primaire : 
 
     1. **Mathilde**, 29 ans, Célibataire, Bruxelles (BE)
@@ -58,6 +58,8 @@ Projet: Sur un Baobab */
 		Equipement : Mac, OSX, Chrome, 	Ecran 15 pouces.
 
     	Expertise Internet : 3/5
+   
+####Éléments à mettre en avant
 
-  
+Il faut avant tout expliquer quel est l'objectif du collectif. Mettre en avant ce qu'ils font à travers les vidéos et ensuite expliquer comment ils le font (making-of, fiches techniques des projets). Il faut aussi mettre en avant que les dons sont possible et très souhaités. Autres projets? 
 
