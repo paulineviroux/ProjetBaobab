@@ -6,14 +6,12 @@ Projet: Sur un Baobab */
 
 **Sitemap**
 
-    1. Accueil
-    2. Actualités
-        Archive
-        [category]
-            [article-name]
+    1. Accueil V
+    2. Actualités V
+        Archive V
+        	[article-name] V
     3. À propos
-        Notre projet
-        Qui sommes-nous
+        Notre projet & Qui sommes-nous V
         Photos
     4. Courts-métrages
         [project-name]
